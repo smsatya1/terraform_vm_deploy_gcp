@@ -1,0 +1,3 @@
+.terraform/*
+.terraform
+suse-gcp-vm-deploy.json
